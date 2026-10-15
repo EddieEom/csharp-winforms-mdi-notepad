@@ -13,6 +13,12 @@
 | :--- | :--- | :--- |
 | **수업 과제** | 제시된 화면·기능 구현 | 다중 문서 · 파일 입출력 · 이벤트 |
 
+## 실행 화면
+
+<img src="https://raw.githubusercontent.com/EddieEom/EddieEom/main/assets/screenshots/mdi-notepad.jpg" alt="하나의 부모 창에서 여러 문서를 연 MDI 메모장" width="100%"/>
+
+**다중 문서 편집** · 하나의 부모 창 안에서 여러 문서를 열고 편집합니다.
+
 ## 📝 기능 구성
 
 <table><tr>
