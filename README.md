@@ -1,6 +1,6 @@
 # C# WinForms MDI 메모장
 
-교수님이 제시한 화면 구성과 기능을 참고해 만든 수업 과제입니다. 제시된 범위에 맞춰 구현했으며, 과제 외에 별도로 추가한 기능은 없습니다.
+수업에서 제시된 화면·기능 요구사항을 바탕으로 구현한 메모장입니다. WinForms의 다중 문서 관리, 파일 입출력, 이벤트 처리를 연습했습니다.
 
 ## 과제 내용
 
@@ -41,4 +41,3 @@ Windows에서 Visual Studio와 .NET Framework 4.7.2 개발 환경을 준비합�
 git clone https://github.com/EddieEom/csharp-winforms-mdi-notepad.git
 ```
 
-위 내용은 기존 README의 실행 환경을 기준으로 정리했습니다.
