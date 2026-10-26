@@ -1,17 +1,12 @@
-<div align="center">
+# WinForms MDI 메모장
 
-# MDI Notepad
+WinForms의 기초를 공부하며 만든 수업 프로젝트입니다. 하나의 부모 창 안에서 여러 문서를 열고, 선택한 문서에 메뉴 기능을 적용하는 메모장을 만들었습니다.
 
-**여러 문서를 하나의 창에서 관리하는 WinForms 메모장**
+## 이 프로젝트에서 공부한 것
 
-</div>
+폼과 컨트롤을 배치하고 이벤트를 연결하는 방법부터 시작했습니다. 이후 부모·자식 폼, 활성 문서 구분, 파일 열기·저장, 글꼴과 배경색 변경을 다뤘습니다.
 
-<p align="center"><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square"/> <img alt="WinForms" src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square"/> <img alt=".NET Framework 4.7.2" src="https://img.shields.io/badge/.NET%20Framework%204.7.2-5C2D91?style=flat-square"/></p>
-
-
-| 형태 | 구현 목표 | 다룬 내용 |
-| :--- | :--- | :--- |
-| **수업 과제** | 제시된 화면·기능 구현 | 다중 문서 · 파일 입출력 · 이벤트 |
+여러 창을 띄우는 것뿐 아니라 메뉴의 동작이 어느 문서에 적용되는지를 생각해 볼 수 있었습니다. 파일 열기·저장에 사용한 텍스트는 [samples](samples)에 모았습니다.
 
 ## 실행 화면
 
